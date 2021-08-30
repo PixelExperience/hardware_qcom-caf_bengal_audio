@@ -1253,7 +1253,7 @@ LOCAL_C_INCLUDES:= \
         system/media/audio/include
 
 LOCAL_SHARED_LIBRARIES:= \
-        android.frameworks.automotive.powerpolicy-V1-ndk_platform \
+        android.frameworks.automotive.powerpolicy-V1-ndk \
         libbase \
         libbinder_ndk \
         libcutils \
